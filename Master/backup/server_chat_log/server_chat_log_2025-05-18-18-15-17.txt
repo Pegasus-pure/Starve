@@ -1,0 +1,3 @@
+[00:00:10]: [Announcement] 世界1: Chinese++ Pro 已更新！按Shift+F查看更新日志
+[00:00:41]: [Join Announcement] Seraphim
+[00:00:58]: [Leave Announcement] Seraphim

@@ -1,0 +1,3 @@
+[00:00:56]: [Join Announcement] Seraphim
+[00:11:00]: [Skin Announcement] Seraphim hand_longgloves_green_hunters
+[00:11:10]: [Leave Announcement] Seraphim

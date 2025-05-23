@@ -1,0 +1,169 @@
+[00:00:35]: [Join Announcement] Seraphim
+[00:05:56]: [Skin Announcement] Seraphim hand_workgloves_grey_gainsboro
+[00:15:57]: [Death Announcement] Seraphim 死于： 饥饿。她变成了可怕的鬼魂！
+[00:16:00]: [Resurrect Announcement] Seraphim 复活自： 骷髅.
+[00:16:38]: [Death Announcement] Seraphim 死于： 浣猫。她变成了可怕的鬼魂！
+[00:16:39]: [Resurrect Announcement] Seraphim 复活自： 骷髅.
+[00:19:11]: [Death Announcement] Seraphim 死于： 发条骑士。她变成了可怕的鬼魂！
+[00:19:12]: [Resurrect Announcement] Seraphim 复活自： 骷髅.
+[00:20:24]: [Death Announcement] Seraphim 死于： 发条骑士。她变成了可怕的鬼魂！
+[00:20:25]: [Resurrect Announcement] Seraphim 复活自： 骷髅.
+[00:44:45]: [Skin Announcement] Seraphim feet_webber_gladiator
+[00:47:48]: [Join Announcement] 郑楚
+[00:50:43]: [Join Announcement] Leo729
+[00:54:12]: [Leave Announcement] Leo729
+[00:55:23]: [Join Announcement] Leo729
+[01:02:37]: [Death Announcement] 郑楚 死于： 高脚鸟。她变成了可怕的鬼魂！
+[01:02:38]: [Resurrect Announcement] 郑楚 复活自： 骷髅.
+[01:03:45]: [Death Announcement] 郑楚 死于： 高脚鸟。她变成了可怕的鬼魂！
+[01:03:47]: [Resurrect Announcement] 郑楚 复活自： 骷髅.
+[01:04:24]: [Death Announcement] 郑楚 死于： 高脚鸟。她变成了可怕的鬼魂！
+[01:04:26]: [Resurrect Announcement] 郑楚 复活自： 骷髅.
+[01:06:38]: [Skin Announcement] Leo729 legs_skirt_basic_pink_pigman
+[01:08:02]: [Death Announcement] Seraphim 死于： 发条骑士。她变成了可怕的鬼魂！
+[01:08:03]: [Resurrect Announcement] Seraphim 复活自： 骷髅.
+[01:09:08]: [Death Announcement] Seraphim 死于： 发条骑士。她变成了可怕的鬼魂！
+[01:09:09]: [Resurrect Announcement] Seraphim 复活自： 骷髅.
+[01:10:05]: [Death Announcement] Seraphim 死于： 发条骑士。她变成了可怕的鬼魂！
+[01:10:07]: [Resurrect Announcement] Seraphim 复活自： 骷髅.
+[01:16:06]: [Death Announcement] Seraphim 死于： 高脚鸟。她变成了可怕的鬼魂！
+[01:16:07]: [Resurrect Announcement] Seraphim 复活自： 骷髅.
+[01:20:50]: [Death Announcement] 郑楚 死于： 高脚鸟。她变成了可怕的鬼魂！
+[01:20:52]: [Resurrect Announcement] 郑楚 复活自： 骷髅.
+[01:20:55]: [Death Announcement] Seraphim 死于： 高脚鸟。她变成了可怕的鬼魂！
+[01:20:56]: [Resurrect Announcement] Seraphim 复活自： 骷髅.
+[01:27:41]: [Skin Announcement] 郑楚 farm_hoe_invisible
+[01:28:29]: [Death Announcement] Leo729 死于： 青蛙。他变成了可怕的鬼魂！
+[01:28:36]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[01:36:49]: [Death Announcement] 郑楚 死于： 高脚鸟。她变成了可怕的鬼魂！
+[01:36:51]: [Resurrect Announcement] 郑楚 复活自： 骷髅.
+[01:51:43]: [Death Announcement] Leo729 死于： 高脚鸟。他变成了可怕的鬼魂！
+[01:51:47]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[01:51:54]: [Death Announcement] Leo729 死于： 高脚鸟。他变成了可怕的鬼魂！
+[01:51:56]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[01:52:03]: [Death Announcement] Leo729 死于： 高脚鸟。他变成了可怕的鬼魂！
+[01:52:09]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[01:52:23]: [Death Announcement] Leo729 死于： 高脚鸟。他变成了可怕的鬼魂！
+[01:52:43]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[01:52:58]: [Death Announcement] Leo729 死于： 高脚鸟。他变成了可怕的鬼魂！
+[01:53:00]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[01:53:06]: [Death Announcement] Leo729 死于： 高脚鸟。他变成了可怕的鬼魂！
+[01:53:08]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[01:53:25]: [Death Announcement] Leo729 死于： 高脚鸟。他变成了可怕的鬼魂！
+[01:53:27]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[01:53:29]: [Death Announcement] 郑楚 死于： 高脚鸟。她变成了可怕的鬼魂！
+[01:53:31]: [Resurrect Announcement] 郑楚 复活自： 骷髅.
+[01:53:42]: [Death Announcement] 郑楚 死于： 高脚鸟。她变成了可怕的鬼魂！
+[01:53:44]: [Resurrect Announcement] 郑楚 复活自： 骷髅.
+[01:53:48]: [Death Announcement] Leo729 死于： 高脚鸟。他变成了可怕的鬼魂！
+[01:53:50]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[01:53:52]: [Death Announcement] 郑楚 死于： 高脚鸟。她变成了可怕的鬼魂！
+[01:53:54]: [Resurrect Announcement] 郑楚 复活自： 骷髅.
+[01:53:57]: [Death Announcement] Leo729 死于： 高脚鸟。他变成了可怕的鬼魂！
+[01:54:01]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[01:54:01]: [Death Announcement] 郑楚 死于： 高脚鸟。她变成了可怕的鬼魂！
+[01:54:04]: [Resurrect Announcement] 郑楚 复活自： 骷髅.
+[01:54:13]: [Death Announcement] Leo729 死于： 高脚鸟。他变成了可怕的鬼魂！
+[01:54:15]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:05:39]: [Death Announcement] Leo729 死于： 饥饿。他变成了可怕的鬼魂！
+[02:05:42]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:07:38]: [Skin Announcement] Seraphim feet_wendy_yule
+[02:12:56]: [Death Announcement] Leo729 死于： 猎犬。他变成了可怕的鬼魂！
+[02:12:58]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:13:04]: [Death Announcement] 郑楚 死于： 猎犬。她变成了可怕的鬼魂！
+[02:13:06]: [Resurrect Announcement] 郑楚 复活自： 骷髅.
+[02:18:31]: [Skin Announcement] 郑楚 body_trimmed_blouse_pink_pearl
+[02:28:45]: [Death Announcement] 郑楚 死于： 皮弗娄牛。她变成了可怕的鬼魂！
+[02:28:46]: [Resurrect Announcement] 郑楚 复活自： 骷髅.
+[02:29:30]: [Death Announcement] Leo729 死于： 发条骑士。他变成了可怕的鬼魂！
+[02:29:31]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:29:50]: [Death Announcement] Leo729 死于： 发条骑士。他变成了可怕的鬼魂！
+[02:29:54]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:30:43]: [Death Announcement] Leo729 死于： 发条骑士。他变成了可怕的鬼魂！
+[02:30:45]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:31:00]: [Death Announcement] Leo729 死于： 发条骑士。他变成了可怕的鬼魂！
+[02:31:02]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:32:06]: [Death Announcement] Leo729 死于： 发条骑士。他变成了可怕的鬼魂！
+[02:32:08]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:32:27]: [Death Announcement] Leo729 死于： 发条骑士。他变成了可怕的鬼魂！
+[02:32:29]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:32:46]: [Death Announcement] Leo729 死于： 发条骑士。他变成了可怕的鬼魂！
+[02:32:51]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:34:03]: [Death Announcement] Seraphim 死于： 鱼人。她变成了可怕的鬼魂！
+[02:34:04]: [Resurrect Announcement] Seraphim 复活自： 骷髅.
+[02:34:23]: [Death Announcement] 郑楚 死于： 高脚鸟。她变成了可怕的鬼魂！
+[02:34:25]: [Resurrect Announcement] 郑楚 复活自： 骷髅.
+[02:35:41]: [Death Announcement] Leo729 死于： 高脚鸟。他变成了可怕的鬼魂！
+[02:35:43]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:35:51]: [Death Announcement] Leo729 死于： 高脚鸟。他变成了可怕的鬼魂！
+[02:35:53]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:36:00]: [Death Announcement] Leo729 死于： 高脚鸟。他变成了可怕的鬼魂！
+[02:36:01]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:36:09]: [Death Announcement] Leo729 死于： 高脚鸟。他变成了可怕的鬼魂！
+[02:36:12]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:36:24]: [Death Announcement] Seraphim 死于： 蜘蛛战士。她变成了可怕的鬼魂！
+[02:36:28]: [Death Announcement] Leo729 死于： 高脚鸟。他变成了可怕的鬼魂！
+[02:36:29]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:36:29]: [Resurrect Announcement] Seraphim 复活自： 骷髅.
+[02:36:36]: [Death Announcement] Seraphim 死于： 触手。她变成了可怕的鬼魂！
+[02:36:37]: [Resurrect Announcement] Seraphim 复活自： 骷髅.
+[02:36:40]: [Death Announcement] Leo729 死于： 高脚鸟。他变成了可怕的鬼魂！
+[02:36:42]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:36:47]: [Death Announcement] 郑楚 死于： 高脚鸟。她变成了可怕的鬼魂！
+[02:36:49]: [Resurrect Announcement] 郑楚 复活自： 骷髅.
+[02:37:06]: [Death Announcement] Leo729 死于： 高脚鸟。他变成了可怕的鬼魂！
+[02:37:09]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:37:14]: [Death Announcement] 郑楚 死于： 高脚鸟。她变成了可怕的鬼魂！
+[02:37:15]: [Resurrect Announcement] 郑楚 复活自： 骷髅.
+[02:37:19]: [Death Announcement] Leo729 死于： 高脚鸟。他变成了可怕的鬼魂！
+[02:37:21]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:37:28]: [Death Announcement] Seraphim 死于： 鱼人。她变成了可怕的鬼魂！
+[02:37:28]: [Death Announcement] Leo729 死于： 高脚鸟。他变成了可怕的鬼魂！
+[02:37:29]: [Resurrect Announcement] Seraphim 复活自： 骷髅.
+[02:37:30]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:37:43]: [Death Announcement] Leo729 死于： 高脚鸟。他变成了可怕的鬼魂！
+[02:37:44]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:38:05]: [Death Announcement] Leo729 死于： 高脚鸟。他变成了可怕的鬼魂！
+[02:38:07]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:38:17]: [Death Announcement] Seraphim 死于： 蜘蛛女王。她变成了可怕的鬼魂！
+[02:38:18]: [Resurrect Announcement] Seraphim 复活自： 骷髅.
+[02:38:27]: [Death Announcement] Seraphim 死于： 蜘蛛女王。她变成了可怕的鬼魂！
+[02:38:27]: [Resurrect Announcement] Seraphim 复活自： 骷髅.
+[02:38:30]: [Death Announcement] 郑楚 死于： 高脚鸟。她变成了可怕的鬼魂！
+[02:38:34]: [Resurrect Announcement] 郑楚 复活自： 骷髅.
+[02:39:34]: [Death Announcement] 郑楚 死于： 高脚鸟。她变成了可怕的鬼魂！
+[02:39:36]: [Resurrect Announcement] 郑楚 复活自： 骷髅.
+[02:41:22]: [Death Announcement] Seraphim 死于： 蜘蛛战士。她变成了可怕的鬼魂！
+[02:41:25]: [Resurrect Announcement] Seraphim 复活自： 骷髅.
+[02:42:30]: [Announcement] 本房间将于 5 秒后清理！
+[02:42:33]: [Announcement] 本房间将于 5 秒后清理！
+[02:42:35]: [Announcement] 清理中...
+[02:42:35]: [Announcement] 清理了   鸟粪(guano)   36   35   1
+[02:42:38]: [Announcement] 清理中...
+[02:42:38]: [Announcement] 清理了   蜘蛛巢(spiderden)   59   9   50
+[02:42:38]: [Announcement] 清理了   蜜蜂(bee)   33   9   24
+[02:42:38]: [Announcement] 清理了   MISSING NAME(flies)   25   13   12
+[02:42:38]: [Announcement] 清理了   青蛙(frog)   27   3   24
+[02:42:38]: [Announcement] 清理了   种子(seeds)   83   73   10
+[02:42:38]: [Announcement] 清理了   针刺树(marsh_tree)   367   207   160
+[02:42:38]: [Announcement] 清理了   腐烂物(spoiled_food)   20   14   6
+[02:42:38]: [Announcement] 清理了   粪肥(poop)   13   1   12
+[02:42:38]: [Announcement] 清理了   MISSING NAME(burntground)   239   233   6
+[02:42:38]: [Announcement] 清理了   臃肿常青树(evergreen_sparse)   617   457   160
+[02:50:18]: [Death Announcement] Leo729 死于： 蜘蛛。他变成了可怕的鬼魂！
+[02:50:20]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:50:36]: [Death Announcement] Leo729 死于： 蜘蛛。他变成了可怕的鬼魂！
+[02:50:38]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[02:51:52]: [Skin Announcement] Leo729 body_polo_yellow_goldenrod
+[02:59:43]: [Death Announcement] Leo729 死于： 浣猫。他变成了可怕的鬼魂！
+[02:59:48]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[03:16:17]: [Death Announcement] Leo729 死于： 猎犬。他变成了可怕的鬼魂！
+[03:16:18]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[03:16:40]: [Death Announcement] Leo729 死于： 红色猎犬。他变成了可怕的鬼魂！
+[03:16:42]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[03:16:54]: [Death Announcement] 郑楚 死于： 猎犬。她变成了可怕的鬼魂！
+[03:16:55]: [Leave Announcement] 郑楚
+[03:17:04]: [Death Announcement] Leo729 死于： 猎犬。他变成了可怕的鬼魂！
+[03:17:08]: [Resurrect Announcement] Leo729 复活自： 骷髅.
+[03:22:28]: [Leave Announcement] Leo729
+[03:22:39]: [Leave Announcement] Seraphim
